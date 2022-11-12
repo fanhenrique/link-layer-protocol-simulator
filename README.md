@@ -1,9 +1,11 @@
+# Simulador do protocolo da camada de enlace.
+
 Trabalho final da disciplina de comunicação de dados.
 
-Simulador do protocolo da camada de enlace.
-
-client.py - transmissor
-server.py - receptor
+### transmissor
+client.py
+###
+server.py
 
 
 Dependências: 
