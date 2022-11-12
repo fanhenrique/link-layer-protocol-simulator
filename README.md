@@ -2,19 +2,16 @@
 
 Trabalho final da disciplina de comunicação de dados.
 
-### transmissor
-  client.py
-### receptor
-  server.py
+### Transmissor - client.py
+### Receptor - server.py
 
-
-## Requirements: 
+### Requirements: 
 `sudo pip3 install mininet`
 
-## Help:
+### Help:
 `sudo python3 lab.py -h`
 
-## Run:
+### Run:
 `sudo python3 lab.py`
 
 ### Note: 
