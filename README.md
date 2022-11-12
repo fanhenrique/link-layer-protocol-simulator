@@ -16,4 +16,4 @@ Trabalho final da disciplina de comunicação de dados.
 
 ### Note: 
 olhar apresentação. 
-saídas dos tempos de execuções são geradas.
+As saídas dos tempos de execuções são geradas.
