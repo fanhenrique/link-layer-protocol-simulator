@@ -8,15 +8,15 @@ Trabalho final da disciplina de comunicação de dados.
   server.py
 
 
-Dependências: 
-sudo pip3 install mininet
+## Requirements: 
+`sudo pip3 install mininet`
 
-Help:
-sudo python3 lab.py -h
+## Help:
+`sudo python3 lab.py -h`
 
-Executar:
-sudo python3 lab.py
+## Run:
+`sudo python3 lab.py`
 
-obs: 
+### Note: 
 olhar apresentação. 
 saídas dos tempos de execuções são geradas.
