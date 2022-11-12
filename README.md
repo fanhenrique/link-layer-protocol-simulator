@@ -3,9 +3,9 @@
 Trabalho final da disciplina de comunicação de dados.
 
 ### transmissor
-client.py
-###
-server.py
+  client.py
+### receptor
+  server.py
 
 
 Dependências: 
