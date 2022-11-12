@@ -15,5 +15,5 @@ Trabalho final da disciplina de comunicação de dados.
 `sudo python3 lab.py`
 
 ### Note: 
-olhar apresentação. 
+Olhar apresentação. 
 As saídas dos tempos de execuções são geradas.
